@@ -1,0 +1,31 @@
+
+       #map {
+        width: 1000px;
+        height: 400px;
+       
+      }
+
+      #tab{
+        overflow: hidden;
+        word-wrap:normal
+      }
+      #musteriAdres{
+        width: 350px;
+      }
+    
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+      @media only screen and (min-width: 801px){
+        #map {
+         
+         
+        }
+       
+      }
+      
+     
